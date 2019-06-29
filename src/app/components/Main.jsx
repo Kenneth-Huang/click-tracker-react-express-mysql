@@ -4,8 +4,6 @@ import Canvas from './Canvas';
 import { connect } from 'react-redux';
 import * as actions from '../store/actions';
 
-
-
 class Main extends Component {
 	constructor(props){
 		super(props);
